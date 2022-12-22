@@ -1,8 +1,6 @@
-# strapi-docker-starter
+# strapi-v4-base
 
-A Strapi 4 template project using PostgreSQL with Docker and Docker Compose support
-
-This repository is associated with a blog post, for more details please head to the post from [here](https://short.razinj.com/n1rf4f).
+A Strapi v4 base using PostgreSQL, Typescript, Docker and Docker Compose
 
 ## Development deployment
 
@@ -43,16 +41,3 @@ This repository is associated with a blog post, for more details please head to 
     ```bash
     docker-compose up -d --build
     ```
-
----
-
-Consider buying us a coffee ❤️
-<div style="text-align: center">
-  <a href="https://www.buymeacoffee.com/razinj.dev" target="_blank">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      alt="Buy Us A Coffee"
-      style="height: 60px !important; width: 217px !important"
-    />
-  </a>
-</div>
